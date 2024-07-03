@@ -13,7 +13,7 @@ public class DemoController {
    public String test(){
        String message ="hello";
        System.out.println("demo controller");
-       System.out.println("service");
+       System.out.println("service data");
        return message;
    }
 }
