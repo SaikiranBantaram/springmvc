@@ -12,6 +12,7 @@ public class DemoController {
     private UserService userService;
    public String test(){
        String message ="hello";
+       System.out.println("demo controller");
        return message;
    }
 }
