@@ -1,3 +1,4 @@
+/*
 package springmvc.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,3 +18,4 @@ public class DemoController {
        return message;
    }
 }
+*/
